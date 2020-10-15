@@ -1,0 +1,6 @@
+C:\Users\Roberto\Desktop\Ejercicio1_Imprimible\Ejercicio1_Imprimible\bin\Debug\Ejercicio1_Imprimible.exe.config
+C:\Users\Roberto\Desktop\Ejercicio1_Imprimible\Ejercicio1_Imprimible\bin\Debug\Ejercicio1_Imprimible.exe
+C:\Users\Roberto\Desktop\Ejercicio1_Imprimible\Ejercicio1_Imprimible\bin\Debug\Ejercicio1_Imprimible.pdb
+C:\Users\Roberto\Desktop\Ejercicio1_Imprimible\Ejercicio1_Imprimible\obj\Debug\Ejercicio1_Imprimible.csprojResolveAssemblyReference.cache
+C:\Users\Roberto\Desktop\Ejercicio1_Imprimible\Ejercicio1_Imprimible\obj\Debug\Ejercicio1_Imprimible.exe
+C:\Users\Roberto\Desktop\Ejercicio1_Imprimible\Ejercicio1_Imprimible\obj\Debug\Ejercicio1_Imprimible.pdb
